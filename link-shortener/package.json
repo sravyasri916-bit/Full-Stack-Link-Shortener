@@ -1,5 +1,5 @@
 {
-  "name": "task",
+  "name": "link-shortener",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.108.2",
-    "nanoid": "^5.1.15",
     "next": "16.2.9",
     "react": "19.2.4",
     "react-dom": "19.2.4"
